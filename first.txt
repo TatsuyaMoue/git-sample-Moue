@@ -5,4 +5,8 @@ master1
 testting
 
 
+
+git_hub リモート繋がったよ
+
+
 dododdodood
